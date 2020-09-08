@@ -1,0 +1,17 @@
+.container {
+    background: #e4e4e4;
+}
+
+.safe-1 {
+    background: green!important;
+}
+
+.safe-2 {
+    background: cadetblue!important;
+}
+
+.content{
+    min-height: 100rpx;
+    text-align: center;
+    background: coral;
+}
