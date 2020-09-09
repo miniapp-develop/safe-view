@@ -1,5 +1,6 @@
-# 微信小程序 State View
+# 微信小程序 Compat
 
+处理 iphone 手机底部小黑条的边距问题。
 
 ## Usage
 
@@ -12,8 +13,8 @@ index.json
 ```json
 {
   "usingComponents": {
-    "states-view": "mini-app-states-view/states-view/index",
-    "state-view": "mini-app-states-view/state-view/index"
+    "safe-area": "miniapp-compat/safe-area/index",
+    "safe-bottom": "miniapp-compat/safe-bottom/index"
   }
 }
 ```
@@ -21,19 +22,16 @@ index.json
 index.wxml
 
 ```html
-<states-view activeState="{{state}}">
-    <state-view state="a">a</state-view>
-    <state-view state="b">b</state-view>
-    <state-view state="c">c</state-view>
-    <state-view state="d">d</state-view>
-</states-view>
+<view class="container">
+    <safe-area ui-class="safe-1">
+        <view class="content-1">safe 1</view>
+    </safe-area>
+    <safe-bottom ui-class="safe-2">
+        <view class="content-2">safe 2</view>
+    </safe-bottom>
+</view>
 ```
 
-index.js
+显示效果
 
-```javascript
-this.setData({
-    state: 'd'
-});
-
-```
+![1.png](./assets/1.png)

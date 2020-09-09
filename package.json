@@ -1,5 +1,5 @@
 {
-  "name": "miniapp-safe-padding",
+  "name": "miniapp-compat",
   "version": "0.0.1",
   "description": "",
   "miniprogram": "dist",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:xesam/mini-app-states-view.git"
+    "url": "git+git@github.com:xesam/miniapp-compat.git"
   },
   "bugs": {
-    "url": "https://github.com/xesam/miniapp-safe-padding"
+    "url": "https://github.com/xesam/miniapp-compat"
   },
-  "homepage": "https://github.com/xesam/miniapp-safe-padding",
+  "homepage": "https://github.com/xesam/miniapp-compat",
   "devDependencies": {
   },
   "keywords": [

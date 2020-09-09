@@ -3,14 +3,20 @@
 }
 
 .safe-1 {
-    background: green!important;
+    background: red !important;
 }
 
 .safe-2 {
-    background: cadetblue!important;
+    background: red !important;
 }
 
-.content{
+.content-1 {
+    text-align: center;
+    min-height: 30vh;
+    background: coral;
+}
+
+.content-2 {
     min-height: 100rpx;
     text-align: center;
     background: coral;
