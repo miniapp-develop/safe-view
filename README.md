@@ -1,4 +1,4 @@
-# 微信小程序 Compat
+# 微信小程序 miniapp-safe-area
 
 处理 iphone 手机底部小黑条的边距问题。
 
@@ -13,8 +13,8 @@ index.json
 ```json
 {
   "usingComponents": {
-    "safe-area": "miniapp-compat/safe-area/index",
-    "safe-bottom": "miniapp-compat/safe-bottom/index"
+    "safe-area": "miniapp-safe-area/safe-area/index",
+    "safe-bottom": "miniapp-safe-area/safe-bottom/index"
   }
 }
 ```
