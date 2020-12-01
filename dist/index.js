@@ -1,4 +1,4 @@
-function _Component(options) {
+function _Component(options = {}) {
     if (!options.externalClasses) {
         options.externalClasses = []
     }

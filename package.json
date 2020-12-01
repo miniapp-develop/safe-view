@@ -1,8 +1,9 @@
 {
-  "name": "miniapp-compat",
+  "name": "miniapp-safe-area",
   "version": "0.0.1",
   "description": "",
   "miniprogram": "dist",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +12,9 @@
     "url": "git+git@github.com:xesam/miniapp-compat.git"
   },
   "bugs": {
-    "url": "https://github.com/xesam/miniapp-compat"
+    "url": "https://github.com/xesam/miniapp-safe-area"
   },
-  "homepage": "https://github.com/xesam/miniapp-compat",
+  "homepage": "https://github.com/xesam/miniapp-safe-area",
   "devDependencies": {
   },
   "keywords": [

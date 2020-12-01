@@ -1,7 +1,3 @@
-const {_Component} = require('../base/hook');
+const { _Component } = require('../index');
 
-_Component({
-    properties: {},
-    data: {},
-    methods: {}
-});
+_Component();
