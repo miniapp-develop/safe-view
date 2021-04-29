@@ -1,7 +1,7 @@
 {
-  "name": "miniapp-safe-area",
+  "name": "@mini-dev/safe-view",
   "version": "0.0.1",
-  "description": "",
+  "description": "miniapp iphone save padding view",
   "miniprogram": "dist",
   "main": "dist/index.js",
   "scripts": {
