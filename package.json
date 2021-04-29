@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:xesam/miniapp-compat.git"
+    "url": "git+git@github.com:xesam/miniapp-safe-area.git"
   },
   "bugs": {
     "url": "https://github.com/xesam/miniapp-safe-area"
