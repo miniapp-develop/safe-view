@@ -3,11 +3,11 @@
 }
 
 .safe-1 {
-    background: red !important;
+    background: red;
 }
 
 .safe-2 {
-    background: red !important;
+    background: red;
 }
 
 .content-1 {

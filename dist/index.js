@@ -6,7 +6,6 @@ function _Component(options = {}) {
     if (!options.behaviors) {
         options.behaviors = [];
     }
-    options.behaviors.unshift();
     options.options = {
         styleIsolation: 'isolated',
         multipleSlots: true,
