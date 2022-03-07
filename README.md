@@ -4,6 +4,10 @@
 
 ## Usage
 
+```shell script
+npm i @mini-dev/safe-view
+```
+
 开启微信小程序的 npm 支持：
 [https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)
 
