@@ -13,11 +13,13 @@
 .content-1 {
     text-align: center;
     min-height: 30vh;
-    background: coral;
+    background: green;
+    color: white;
 }
 
 .content-2 {
     min-height: 100rpx;
     text-align: center;
-    background: coral;
+    background: green;
+    color: white;
 }

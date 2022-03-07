@@ -41,7 +41,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.2.1",
   "appid": "wx132bb522ad967270",
-  "projectname": "miniapp-compat",
+  "projectname": "safe-view",
   "debugOptions": {
     "hidedInDevtools": []
   },

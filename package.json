@@ -1,6 +1,6 @@
 {
   "name": "@mini-dev/safe-view",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "miniapp iphone safe padding view",
   "miniprogram": "dist",
   "main": "dist/index.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:xesam/miniapp-safe-area.git"
+    "url": "git+git@github.com:miniapp-develop/safe-view.git"
   },
   "bugs": {
-    "url": "https://github.com/xesam/miniapp-safe-area"
+    "url": "https://github.com/miniapp-develop/safe-view"
   },
-  "homepage": "https://github.com/xesam/miniapp-safe-area",
+  "homepage": "https://github.com/miniapp-develop/safe-view",
   "devDependencies": {
   },
   "keywords": [
