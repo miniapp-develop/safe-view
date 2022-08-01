@@ -1,6 +1,6 @@
 {
   "usingComponents": {
-    "safe-area": "../../dist/safe-area/index",
-    "safe-bottom": "../../dist/safe-bottom/index"
+    "safe-area": "/lib/safe-area/index",
+    "safe-bottom": "/lib/safe-bottom/index"
   }
 }
